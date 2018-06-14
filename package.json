@@ -1,0 +1,20 @@
+{
+  "name": "story",
+  "main": "./lib/story",
+  "version": "0.0.0",
+  "description": "Tools for write story or fiction.",
+  "keywords": [],
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "repository": "https://github.com/llqgit/atom-story",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
