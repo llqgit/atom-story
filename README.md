@@ -1,4 +1,6 @@
-# atom-fiction
+# atom-story
 
-feacture:
+A package for writing story or fiction.
+
+# Features
 [+] count number of character
